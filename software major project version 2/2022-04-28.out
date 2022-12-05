@@ -1,0 +1,12 @@
+plane2 has using track 1 at time 21:01:38.876
+plane1 has using track 0 at time 21:01:38.876
+plane3 has using track 2 at time 21:01:38.876
+plane4 has using track 3 at time 21:01:38.877
+plane5 has using track 4 at time 21:01:38.877
+plane4 has leave track 3 at time 21:01:39.880
+plane2 has leave track 1 at time 21:01:39.880
+plane6 has using track 1 at time 21:01:39.880
+plane1 has leave track 0 at time 21:01:39.896
+plane3 has leave track 2 at time 21:01:39.896
+plane5 has leave track 4 at time 21:01:39.896
+plane6 has leave track 1 at time 21:01:40.887
